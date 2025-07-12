@@ -80,16 +80,10 @@ $ streamlit run app/streamlit_app.py  # open http://localhost:8501
 
 ---
 
-## 早期圈数 vs RMSE / Early-Cycles Curve
-
-![rmse_curve](rmse_curve.png)
-
----
-
 ## 贡献 / Contribute
-Pull Request 不限语言，哪怕是 COBOL。只要 CI 能绿灯，我就合并。
+Pull Request 不限语言，哪怕是 COBOL。只要 CI 能绿灯，就合并。
 
 ---
 
 ## License
-MIT — 用坏了别来找我，反正我 70 岁，键盘还能再敲 30 年。
+MIT 
