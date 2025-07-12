@@ -1,9 +1,7 @@
 # Battery Cycle-Life Analysis Suite
 
-> *“当年我用 8-bit 汇编算不到 1 MiB 的 SRAM，如今帮你用 GPU 预测电池还能撑几圈。时光荏苒，摩尔定律没骗我。”*
+> *“当年用 8-bit 汇编算不到 1 MiB 的 SRAM，如今帮你用 GPU 预测电池还能撑几圈。时光荏苒，摩尔定律没骗过往者。”*
 
-[![CI](https://img.shields.io/github/actions/workflow/status/your/repo/ci.yml?label=CI&logo=github)](#)
-[![Coverage](https://img.shields.io/badge/coverage-90%25-green)](#)
 
 ## 为什么要折腾它？
 1. **数据入口像地沟油** — 各种 CSV/HDF5/SQL，全自动洗白，留指纹可回溯。
@@ -16,7 +14,7 @@
 
 ---
 
-## 目录快照（万一你还分得清）
+## 目录
 ```
 battery_cycle_life/   # 核心库
 ├─ data.py            # 通用数据管线
