@@ -243,7 +243,7 @@ $ helm install monitoring deploy/helm/monitoring
 
 ---
 
-## 学术引用 / Academic Citation
+## Academic Citation
 
 ```bibtex
 @author={lunazhang},
@@ -253,7 +253,7 @@ $ helm install monitoring deploy/helm/monitoring
 
 ---
 
-## 贡献指南 / Contribution Guide
+## Contribution Guide
 
 1. Fork 仓库并创建特性分支
 2. 遵循代码规范（flake8 + black）
@@ -261,7 +261,7 @@ $ helm install monitoring deploy/helm/monitoring
 4. 提交 PR 时附带性能分析报告
 5. 通过 CI/CD 流水线检查
 
-详细指南见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
 
 ---
 
