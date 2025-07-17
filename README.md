@@ -240,20 +240,14 @@ $ helm install monitoring deploy/helm/monitoring
 - 数据一致性：100%
 - 故障恢复：< 30s
 
-![performance_metrics](performance_metrics.png)
-
-> 性能曲线与置信区间由 Deep Ensemble 估计
 
 ---
 
 ## 学术引用 / Academic Citation
 
 ```bibtex
-@article{zhang2023battery,
-  title={Deep Learning-Enabled Battery Cycle Life Prediction},
-  author={lunazhang},
-  journal={Nature Energy},
-  year={2023}
+@author={lunazhang},
+  year={2025}
 }
 ```
 
