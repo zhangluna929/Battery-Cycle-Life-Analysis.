@@ -6,7 +6,7 @@
 [![Coverage](https://img.shields.io/badge/coverage-90%25-green)](#)
 [![Documentation](https://img.shields.io/badge/docs-latest-blue)](#)
 [![Docker](https://img.shields.io/docker/pulls/lunazhang/battery-analysis)](#)
-[![arXiv](https://img.shields.io/badge/arXiv-2023.xxxxx-b31b1b)](#)
+
 
 ## 为什么要折腾它？
 1. **分布式数据引擎** — 
