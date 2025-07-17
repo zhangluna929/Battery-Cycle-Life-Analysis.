@@ -2,10 +2,6 @@
 
 > *"从量子隧穿到宏观衰退，从分子动力学到深度神经网络。让算法解构电化学反应的交响曲，让人工智能重绘能源革命的蓝图。在纳米尺度的电荷传输与原子迁移中，我们找寻下一代储能技术的答案。"*
 
-[![CI](https://img.shields.io/github/actions/workflow/status/lunazhang/repo/ci.yml?label=CI&logo=github)](#)
-[![Coverage](https://img.shields.io/badge/coverage-90%25-green)](#)
-[![Documentation](https://img.shields.io/badge/docs-latest-blue)](#)
-[![Docker](https://img.shields.io/docker/pulls/lunazhang/battery-analysis)](#)
 
 
 ## 为什么要折腾它？
